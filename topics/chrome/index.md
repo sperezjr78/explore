@@ -1,4 +1,4 @@
----
+---Yuma
 aliases: google-chrome
 related: firefox,safari,edge,opera,chromium,browser,chrome-extension
 created_by: Google
